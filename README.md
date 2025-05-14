@@ -59,6 +59,8 @@ Amanda Arruda Almeida
 ## Referências 
 
 * [Scikit-learn Documentation](https://scikit-learn.org/stable/)
+* [Streamlit Docs](https://docs.streamlit.io)
+  
 
 
 
