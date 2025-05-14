@@ -39,14 +39,21 @@ https://github.com/user-attachments/assets/951a6ce8-100b-4076-9b8b-6d4bf864309f
 
 ## Dependências 
 
-Python 3.10+
-streamlit==1.32.0
-pandas==2.0.3
-scikit-learn==1.3.0
-matplotlib==3.7.0
-seaborn==0.12.0
-joblib==1.3.0
+Python 3.11+
 
+numpy==2.0.1
+
+pandas==2.2.2
+
+matplotlib==3.9.1
+
+seaborn==0.13.2
+
+joblib==1.4.2
+
+streamlit==1.42.1
+
+protobuf==3.20.1
 
 
 
