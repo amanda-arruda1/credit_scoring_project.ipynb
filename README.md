@@ -4,6 +4,5 @@
 
 
 
-## 📽️ Demonstração  
-🎥 [Clique aqui para assistir ao vídeo de demonstração](demo/demo-credit-scoring.mov)
+
 
