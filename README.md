@@ -48,7 +48,6 @@ https://github.com/user-attachments/assets/951a6ce8-100b-4076-9b8b-6d4bf864309f
 - seaborn==0.13.2
 - joblib==1.4.2
 - streamlit==1.42.1
-- protobuf==3.20.1
 
 ## Licença
 
