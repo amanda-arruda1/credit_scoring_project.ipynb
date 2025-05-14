@@ -6,7 +6,7 @@ Sistema de análise de risco de crédito com Machine Learning
 
 Aplicação Streamlit para valiação de risco de crédito, classificando clientes em categorias de risco (Baixo, Médio, Alto) com base em um modelo de machine learning em 15 safras de dados.
 
-### Link da Aplicação: 
+🔗 Link da Aplicação: https://credit-scoring-tool.onrender.com 
 
 ## Demonstração
 https://github.com/user-attachments/assets/951a6ce8-100b-4076-9b8b-6d4bf864309f
