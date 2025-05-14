@@ -39,21 +39,14 @@ https://github.com/user-attachments/assets/951a6ce8-100b-4076-9b8b-6d4bf864309f
 
 ## Dependências 
 
-Python 3.11+
-
-numpy==2.0.1
-
-pandas==2.2.2
-
-matplotlib==3.9.1
-
-seaborn==0.13.2
-
-joblib==1.4.2
-
-streamlit==1.42.1
-
-protobuf==3.20.1
+|Python 3.11+
+|numpy==2.0.1
+|pandas==2.2.2
+|matplotlib==3.9.1
+|seaborn==0.13.2
+|joblib==1.4.2
+|streamlit==1.42.1
+|protobuf==3.20.1
 
 
 
